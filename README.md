@@ -5,10 +5,10 @@
 
 
 ## Test CI:
-[URL]()
+[URL](https://github.com/AyahZaareer/sql-api-server/actions)
 
 ## Heroku Link:
-[URL]()
+[URL](https://ayah-sql-api-server.herokuapp.com)
 
 ## Pull Request:
 [URL](https://github.com/AyahZaareer/sql-api-server/pull/1)
